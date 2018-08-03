@@ -101,7 +101,7 @@
 
 ### (2) 数据库层面（包括数据库和NoSQL：Redis）
 
-#### 数据库锁
+#### [数据库锁](https://github.com/Yutoti/HighConcurrence/blob/master/Topic3/%E6%82%B2%E8%A7%82%E9%94%81%E4%B8%8E%E4%B9%90%E8%A7%82%E9%94%81)
 
 &nbsp; &nbsp; 悲观锁：可实现分布式锁，但造成资源浪费，性能下降；
 
